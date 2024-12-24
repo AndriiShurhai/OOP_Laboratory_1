@@ -1,0 +1,14 @@
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\OneDrive\Робочий стіл\University\Second course\OOP\Laboratory1\Laboratory1C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
